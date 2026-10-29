@@ -6,7 +6,9 @@ env/
 ENV/
 .venv/
 
-.ipynb_checkpoints
+# Jupyter
+.jupyter/
+.ipynb_checkpoints/
 *.jupyterlab-workspace
 
 .vscode/
